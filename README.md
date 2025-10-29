@@ -90,7 +90,7 @@ All features listed below are implemented by manually manipulating pixel data (e
 
 | Entry Page | Main Menu | Image Selection |
 | :---: | :---: | :---: |
-| ![Login](assets/EntryPage.png) | ![Main Menu](assets/MainPage2.png) | ![Image Select](assets/MainPage3.png) |
+| ![Login](Assets/EntryPage.png) | ![Main Menu](Assets/MainPage2.png) | ![Image Select](assets/MainPage3.png) |
 
 
 
