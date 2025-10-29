@@ -97,6 +97,6 @@ All features listed below are implemented by manually manipulating pixel data (e
 ## The Team
 
 * **Yusuf Furkan Umutlu** (Project Lead & Architect | Morphological, Geometric, & Skeletonization Algorithms)
-* **Mustafa [Soyadı]** (Advanced Filtering, Edge Detection & Histograms)
-* **İsmail [Soyadı]** (Basic Filtering & Noise Algorithms)
-* **Alperen [Soyadı]** (Point Processing & Basic Transforms)
+* **Mustafa Nahsan** (Advanced Filtering, Edge Detection & Histograms)
+* **İsmail Sarıteke** (Basic Filtering & Noise Algorithms)
+* **Alperen Atar** (Point Processing & Basic Transforms)
