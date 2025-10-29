@@ -4,8 +4,8 @@
 
 IM-AGES is a comprehensive desktop application built with C# and WinForms that implements a wide array of fundamental and advanced image processing algorithms **entirely from scratch**. No external processing libraries (OpenCV or AForge.NET) were used; every algorithm is a clean-room implementation, demonstrating a deep, practical understanding of DIP (Digital Image Processing) theory.
 
-![Main Editor Screenshot](assets/main-editor.png)
-*(Lütfen 'assets/main-editor.png' dosyasını kendi ana ekran görüntünüzle değiştirin)*
+![Main Editor Screenshot](assets/MainPage3.png)
+
 
 ## Core Architecture & Teamwork
 
@@ -21,7 +21,7 @@ The project lead (Yusuf Furkan Umutlu) established this core architecture, defin
 Beyond the standard algorithms, IM-AGES features powerful editor tools that set it apart:
 
 ### 1. Advanced Zoom & Pan Tool
-A custom picture box component was developed to allow for high-magnification zoom and panning *within* the editor forms. This was a complex feature requiring custom coordinate mapping that was not successfully implemented by other teams.
+A custom picture box component was developed to allow for high-magnification zoom and panning *within* the editor forms. 
 
 ### 2. Visual Operation History (Undo/Redo)
 The application maintains a visual history (similar to Photoshop's) of all applied operations. This allows the user to see the effect of each step, click on any previous state to revert (Undo), and re-apply changes, providing a non-destructive workflow.
@@ -87,15 +87,12 @@ All features listed below are implemented by manually manipulating pixel data (e
 
 ## Gallery
 
-*(Buraya `assets` klasöründeki diğer ekran görüntülerini ekle)*
 
-| Login Screen | Main Menu | Image Selection |
+| Entry Page | Main Menu | Image Selection |
 | :---: | :---: | :---: |
-| ![Login](assets/login-screen.png) | ![Main Menu](assets/main-menu.png) | ![Image Select](assets/image-select.png) |
+| ![Login](assets/EntryPage.png) | ![Main Menu](assets/MainPage2.png) | ![Image Select](assets/MainPage3.png) |
 
-| Sobel Filter | Skeletonization | History Panel |
-| :---: | :---: | :---: |
-| ![Sobel](assets/sobel-filter.png) | ![Skeletonize](assets/skeleton-result.png) | ![History](assets/history-panel.png) |
+
 
 ## The Team
 
