@@ -4,7 +4,7 @@
 
 IM-AGES is a comprehensive desktop application built with C# and WinForms that implements a wide array of fundamental and advanced image processing algorithms **entirely from scratch**. No external processing libraries (OpenCV or AForge.NET) were used; every algorithm is a clean-room implementation, demonstrating a deep, practical understanding of DIP (Digital Image Processing) theory.
 
-![Main Editor Screenshot](assets/MainPage3.png)
+![Main Editor Screenshot](Assets/MainPage3.png)
 
 
 ## Core Architecture & Teamwork
@@ -90,7 +90,7 @@ All features listed below are implemented by manually manipulating pixel data (e
 
 | Entry Page | Main Menu | Image Selection |
 | :---: | :---: | :---: |
-| ![Login](Assets/EntryPage.png) | ![Main Menu](Assets/MainPage2.png) | ![Image Select](assets/MainPage3.png) |
+| ![Login](Assets/EntryPage.png) | ![Main Menu](Assets/MainPage2.png) | ![Image Select](Assets/MainPage3.png) |
 
 
 
